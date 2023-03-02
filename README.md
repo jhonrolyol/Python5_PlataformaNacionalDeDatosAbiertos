@@ -1,7 +1,11 @@
 # National Open Data Platform
 
 <p>
-The platform is in the following <a href="https://www.datosabiertos.gob.pe/">link</a>
+ The platform is in the following <a href="https://www.datosabiertos.gob.pe/">link</a>
+</p>
+
+<p>
+  Below is a brief summary of the page content.
 </p>
 
 ## Content Types
